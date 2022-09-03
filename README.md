@@ -23,22 +23,14 @@ data/
 
 *-hdp_##.dsm: the H-DSM derived form the revision history coverd by an evolution window. 
 
+
 bug-issue/
 
 *-jira-bugs.zip: a project's bug records in the issue tracking system, JIRA.
 
 
-tool: the detection tool of architecture hotspots
-
-
-
-
-
-
-
-
-
-
-
+rq_result/
 
 .xlsx: the results of each research question.
+
+tool/
