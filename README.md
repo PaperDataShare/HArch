@@ -1,6 +1,6 @@
 Supplemental materials of our ICSE 2023 paper: Identifying History-based Architecture Hotspots
 
-Source code: All the source code can be downloaded from GitHub:
+Source code: all the source code can be downloaded from GitHub:
 Accumulo: https://github.com/apache/accumulo/   Release 1.9.3
 Ambari: https://github.com/apache/ambari		Release 2.7.3
 ActiveMQ: https://github.com/apache/activemq	Release 5.15.9
