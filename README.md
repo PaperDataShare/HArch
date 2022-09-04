@@ -34,3 +34,10 @@ rq_result/
 .xlsx: the results of each research question.
 
 tool/
+
+HDSMGenerator.jar: the tool for generating a hdsm.
+
+ArchHotsoptDetector.jar: the tool for detecting history-based architecture hotspots.
+
+BugChurnCalculator.jar: the tool for calculating the bug churn of each file.
+
