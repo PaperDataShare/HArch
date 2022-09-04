@@ -26,7 +26,7 @@ data/
 
 bug-issue/
 
-*-jira-bugs.zip: a project's bug records in the issue tracking system, JIRA.
+*-jira-bugs.zip: a project's bug records extracted from its issue tracking system, JIRA.
 
 
 rq_result/
@@ -35,7 +35,7 @@ rq_result/
 
 tool/
 
-HDSMGenerator.jar: the tool for generating a hdsm.
+HDSMGenerator.jar: the tool for generating a h-dsm.
 
 ArchHotsoptDetector.jar: the tool for detecting history-based architecture hotspots.
 
