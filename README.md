@@ -1,16 +1,16 @@
 Supplemental materials of our ICSE 2023 paper: Identifying History-based Architecture Hotspots
 
 Source code: all the source code can be downloaded from GitHub:
-Accumulo: https://github.com/apache/accumulo/   Release 1.9.3
-Ambari: https://github.com/apache/ambari		Release 2.7.3
-ActiveMQ: https://github.com/apache/activemq	Release 5.15.9
-Cassandra: https://github.com/apache/cassandra	Release 3.11.4
-CXF: https://github.com/apache/cxf				Release 3.3.2
-Hadoop: https://github.com/apache/hadoop		Release 3.1.2
-HBase: https://github.com/apache/hbase			Release 2.2.0
-Hive: https://github.com/apache/hive			Release 2.3.5
-PDFBox: https://github.com/apache/pdfbox		Release 2.0.16
-Wicket: https://github.com/apache/wicket		Release 8.5.0
+Accumulo: https://github.com/apache/accumulo/   Release 1.9.3;
+Ambari: https://github.com/apache/ambari		Release 2.7.3;
+ActiveMQ: https://github.com/apache/activemq	Release 5.15.9;
+Cassandra: https://github.com/apache/cassandra	Release 3.11.4;
+CXF: https://github.com/apache/cxf				Release 3.3.2;
+Hadoop: https://github.com/apache/hadoop		Release 3.1.2;
+HBase: https://github.com/apache/hbase			Release 2.2.0;
+Hive: https://github.com/apache/hive			Release 2.3.5;
+PDFBox: https://github.com/apache/pdfbox		Release 2.0.16;
+Wicket: https://github.com/apache/wicket		Release 8.5.0.
 
 
 data/
