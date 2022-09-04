@@ -37,7 +37,7 @@ tool/
 
 HDSMGenerator.jar: the tool for generating h-dsm files.
 
-ArchHotsoptDetector.jar: the tool for detecting history-based architecture hotspots.
+ArchHotspotDetector.jar: the tool for detecting history-based architecture hotspots.
 
 BugChurnCalculator.jar: the tool for calculating the bug churn of each file.
 
