@@ -15,7 +15,7 @@ Wicket: https://github.com/apache/wicket		Release 8.5.0
 
 data/
 
-*_git.log: a project's revision history.
+*_git.log: a project's revision history (corresponding command line: git log --numstat --date=iso).
 
 *_filelist.csv: a project's file list extracted from its source code.
 
@@ -35,7 +35,7 @@ rq_result/
 
 tool/
 
-HDSMGenerator.jar: the tool for generating a h-dsm.
+HDSMGenerator.jar: the tool for generating h-dsm files.
 
 ArchHotsoptDetector.jar: the tool for detecting history-based architecture hotspots.
 
