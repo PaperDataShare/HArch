@@ -1,4 +1,4 @@
-Supplemental materials of our ICSE 2023 paper: Identifying History-based Architecture Hotspots
+Supplemental materials of our paper: Identifying and Analyzing History-based Architecture Hotspots
 
 Source code: all the source code can be downloaded from GitHub:
 Accumulo: https://github.com/apache/accumulo/   Release 1.9.3;
