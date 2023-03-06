@@ -15,29 +15,29 @@ Wicket: https://github.com/apache/wicket		Release 8.5.0.
 
 data/
 
-*_git.log: a project's revision history (corresponding command line: git log --numstat --date=iso).
+    *_git.log: a project's revision history (corresponding command line: git log --numstat --date=iso).
 
-*_filelist.csv: a project's file list extracted from its source code.
+    *_filelist.csv: a project's file list extracted from its source code.
 
-*_BC_##.csv: each file lists the bug churn of each file by examining the revision history coverd by an evolution window. 
+    *_BC_##.csv: each file lists the bug churn of each file by examining the revision history coverd by an evolution window. 
 
-*-hdp_##.dsm: the H-DSM derived form the revision history coverd by an evolution window. 
+    *-hdp_##.dsm: the H-DSM derived form the revision history coverd by an evolution window. 
 
 
 bug-issue/
 
-*-jira-bugs.zip: a project's bug records extracted from its issue tracking system, JIRA.
+    *-jira-bugs.zip: a project's bug records extracted from its issue tracking system, JIRA.
 
 
 rq_result/
 
-.xlsx: the results of each research question.
+    .xlsx: the results of each research question.
 
 tool/
 
-HDSMGenerator.jar: the tool for generating h-dsm files.
+    HDSMGenerator.jar: the tool for generating h-dsm files.
 
-ArchHotspotDetector.jar: the tool for detecting history-based architecture hotspots.
+    ArchHotspotDetector.jar: the tool for detecting history-based architecture hotspots.
 
-BugChurnCalculator.jar: the tool for calculating the bug churn of each file.
+    BugChurnCalculator.jar: the tool for calculating the bug churn of each file.
 
